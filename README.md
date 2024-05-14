@@ -2,7 +2,8 @@
 
 <div align="center"> 
 
-# Backend com <a href="https://www.java.com/"><img src="./github/java_logo.png" alt="Logo Java"></a>
+# Backend com <br> <a href="https://www.java.com/" ><img src="./img/java_logo.png"  width="150px" alt="Logo Java"></a>
+
 
 
 Este repositório contém uma coleção de projetos desenvolvidos durante o <strong style="color:#B22222;">Bootcamp Santander 2024</strong> em parceria com a <strong style="color:#4D4DFF;">Digital Innovation One (DIO)</strong>. Cada projeto aborda diferentes conceitos e tecnologias, proporcionando uma experiência abrangente de aprendizado.
