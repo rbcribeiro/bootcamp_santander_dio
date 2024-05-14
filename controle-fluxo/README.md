@@ -1,18 +1,27 @@
-## Getting Started
+<div style="background-color:black; color:white; padding:20px; align:center">
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<div align="center"> 
 
-## Folder Structure
+# Controle de Fluxo</div>
 
-The workspace contains two folders by default, where:
+(Em construção)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+&nbsp;
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+<div align="center">
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## <strong style="color:#A52A2A;">RENATA RIBEIRO</strong>
 
-## Dependency Management
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/rbcribeiro" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white" alt="Github" width="110px" height="35px">
+  </a>
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+  <a href="https://www.linkedin.com/in/rbcribeiro" target="_blank" rel="noopener noreferrer" style="margin: 15px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" width="110px" height="35">
+  </a>
+
+  <a href="https://web.dio.me/users/rbcribeiro" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/DIO-000?style=for-the-badge&logo=gulp&logoColor=30A3DC" alt="DIO" width="110px" height="45px">
+  </a>
+</div>
